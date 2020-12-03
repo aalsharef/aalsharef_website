@@ -1,0 +1,48 @@
+---
+title: aatempt to publish this post
+author: Abdullah Alsharef
+date: '2020-12-03'
+slug: []
+categories:
+  - R
+tags:
+  - Deep Learning
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-12-03T12:00:24-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+# header 1
+
+some text
+
+# header 2
+
+
+this is the end goal
+
+```{r}
+my_dat <- mtcars
+
+plot(my_dat)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
