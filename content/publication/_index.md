@@ -1,4 +1,4 @@
----
+![](/publication/_index_files/ois_calc.png)---
 title: Publications
 
 # View.
