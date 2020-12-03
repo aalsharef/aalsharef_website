@@ -49,6 +49,11 @@ plot(mtcars$mpg, mtcars$disp)
 
 
 
+```{r}
+plot(mtcars)
+
+summary(mtcars)
+```
 
 
 
