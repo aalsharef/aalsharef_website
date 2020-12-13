@@ -1,37 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Abdullah Alsharef
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: North Carolina State University
+  url: "ncsu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include construction safety and infrastructure management.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Analytics in Construction Management 
+- Construction Safety
+- Transportation Mega Projects Management 
+- Research Methods
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Civil Engineering - Minor in Statistics
+    institution: North Carolina State University
+    year: 2021
+  - course: MS in Civil Engineering
+    institution: North Carolina State University
+    year: 2016
+  - course: BSc in Civil Engineering
+    institution: King Saud University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:afalshar@ncsu.edu # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -69,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Abdullah Alsharef is a Ph.D.  candidate in Construction Engineering & Management. Abdullah was raised in Riyad, Saudi Arabia. He earned his bachelor’s degree in Civil Engineering at King Saud University. While at North Carolina State University, he earned his master’s degree by investigating factors that affect let date and designed model approaches to predict construction expenditures for transportation megaprojects. His current research interests include construction safety management, payout curves prediction, and developing best practices in construction. Abdullah is an avid soccer fan, he plays weekly and tries to watch his favorite teams’ games.
